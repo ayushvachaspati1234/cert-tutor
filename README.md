@@ -1,4 +1,4 @@
-# CertPilot — Landing Page
+# Klyver — Landing Page
 
 Static landing page for an **AI tutor for vocational certifications** (EPA 608, CDL, journeyman electrician, NATE, CompTIA…) startup. No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "CertPilot",
-  domain: "certpilot.example.com",
-  contactEmail: "hello@certpilot.example.com"
+  companyName: "Klyver",
+  domain: "klyver.xyz",
+  contactEmail: "hello@klyver.xyz"
 };
 ```
 
